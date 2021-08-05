@@ -12,8 +12,8 @@ public class Main {
         ContactsDao contDao = new ContactsDao();
 
         Contacts newContacts = new Contacts();
-        newContacts.setName("Link");
-        newContacts.setAge(20);
+        newContacts.setName("Sonic");
+        newContacts.setAge(15);
         newContacts.setDate_resgister(new Date());
 
         //***CREATE CONTACTS***
